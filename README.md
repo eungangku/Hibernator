@@ -1,7 +1,7 @@
 # Hibernator
 An exe file directly hibernates a computer.
 
-> 컴퓨터를 최대절전모드로 전환하게 하는 exe 파일입니다.
+> 컴퓨터를 최대절전모드로 전환시키는 exe 파일입니다.
 
 # Description
 DoubleClick the Hibernator.exe, then your computer will be hibernated.
