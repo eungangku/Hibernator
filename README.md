@@ -1,4 +1,6 @@
 # Hibernator
+[![GitHub release](https://img.shields.io/github/release/eungangku/Hibernator?include_prereleases=&sort=semver)](https://github.com/eungangku/Hibernator/releases/)
+
 An exe file directly hibernates a computer.
 
 > 컴퓨터를 최대절전모드로 전환시키는 exe 파일입니다.
