@@ -1,6 +1,6 @@
 # Hibernator
 [![GitHub release](https://img.shields.io/github/release/eungangku/Hibernator?include_prereleases=&sort=semver)](https://github.com/eungangku/Hibernator/releases/)
-[![Page - Hibernator](https://img.shields.io/badge/Page-Hibernator-2ea44f)](https://eungangku.github.io/Hibernator/)
+[![page - Hibernator](https://img.shields.io/badge/page-Hibernator-2ea44f)](https://eungangku.github.io/Hibernator/)
 
 An exe file directly hibernates a computer.
 
